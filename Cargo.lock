@@ -182,6 +182,14 @@ dependencies = [
 ]
 
 [[package]]
+name = "actix_web_simple"
+version = "0.1.0"
+dependencies = [
+ "actix-web",
+ "env_logger",
+]
+
+[[package]]
 name = "addr2line"
 version = "0.21.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -749,14 +757,6 @@ dependencies = [
  "log",
  "wasi",
  "windows-sys 0.48.0",
-]
-
-[[package]]
-name = "neb-rust-devbook"
-version = "0.1.0"
-dependencies = [
- "actix-web",
- "env_logger",
 ]
 
 [[package]]
