@@ -2,5 +2,5 @@
 resolver = "2"
 
 members = [
-    "actix_web_simple",
+    "actix_web_simple", "ch2_guessing_game",
 ]
