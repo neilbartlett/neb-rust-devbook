@@ -413,6 +413,18 @@ name = "ch3_variables"
 version = "0.1.0"
 
 [[package]]
+name = "ch4_ownership"
+version = "0.1.0"
+
+[[package]]
+name = "ch4_slice"
+version = "0.1.0"
+
+[[package]]
+name = "ch4_stack"
+version = "0.1.0"
+
+[[package]]
 name = "colorchoice"
 version = "1.0.0"
 source = "registry+https://github.com/rust-lang/crates.io-index"

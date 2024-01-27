@@ -2,5 +2,5 @@
 resolver = "2"
 
 members = [
-    "actix_web_simple", "ch2_guessing_game", "ch3_2_data_types", "ch3_3_functions", "ch3_5_branches", "ch3_variables",
+    "actix_web_simple", "ch2_guessing_game", "ch3_2_data_types", "ch3_3_functions", "ch3_5_branches", "ch3_variables", "ch4_ownership", "ch4_slice", "ch4_stack",
 ]
